@@ -19,3 +19,8 @@ Project Description:
 Primary Azure Technology: Azure Bot Service, QnA Maker,Azure Cognitive Services,Azure static web apps
 
 Other Azure Technologies: App Service
+FAQ WEBSITE 
+![FAQ PORTAL](https://user-images.githubusercontent.com/72748973/149295915-88924966-486b-4659-8b0b-114f164e7c00.jpg)
+![FAQ PORTAL1](https://user-images.githubusercontent.com/72748973/149295920-93d4215a-cac2-4315-b103-380c77ece4e7.jpg)
+![FAQ PORTAL2](https://user-images.githubusercontent.com/72748973/149295923-e4cda6b8-75bb-4763-8ea9-3b51b709eb32.jpg)
+
