@@ -14,8 +14,8 @@ PROJECT DEMO URL-https://purple-sky-0e2f77b0f.1.azurestaticapps.net
   FAQ CHAT BOT
 
 # Problem Statement/Opportunity:
-PROBLEM STATEMENT- Building a web chat bot to answer the questions of a user on a website.
-PROBLEM OPPORTUNITY-By creating a web chat bot we can make user experience more better in terms of interaction through a bot rather than the user reading from a website. We can create our own Question and answer list which we think user might ask.
+**PROBLEM STATEMENT**- Building a web chat bot to answer the questions of a user on a website.\
+**PROBLEM OPPORTUNITY**-By creating a web chat bot we can make user experience more better in terms of interaction through a bot rather than the user reading from a website. We can create our own Question and answer list which we think user might ask.
 
 # Project Description:
   My aim is to create a chat bot which can have interaction with the user in case a user has any doubts or to answers frequently asked questions.This will save the user time, 
